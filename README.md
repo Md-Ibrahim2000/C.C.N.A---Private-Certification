@@ -1,2 +1,2 @@
-# C.C.N.A---Private-Certification
-Sans Bound Networking School 
+# C.C.N.A---Trained-Certification
+By Sans-Bound Networking School 
